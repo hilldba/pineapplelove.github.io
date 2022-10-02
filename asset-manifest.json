@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hilldba/pineapplelove/static/css/main.b6a199dd.css",
+    "main.js": "/hilldba/pineapplelove/static/js/main.f3a2c994.js",
+    "static/media/people.png": "/hilldba/pineapplelove/static/media/people.0d944c31e2a480c491b4.png",
+    "static/media/snapchat.svg": "/hilldba/pineapplelove/static/media/snapchat.8c23869769557ec935493eb3a9bc3d7b.svg",
+    "index.html": "/hilldba/pineapplelove/index.html",
+    "main.b6a199dd.css.map": "/hilldba/pineapplelove/static/css/main.b6a199dd.css.map",
+    "main.f3a2c994.js.map": "/hilldba/pineapplelove/static/js/main.f3a2c994.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6a199dd.css",
+    "static/js/main.f3a2c994.js"
+  ]
+}
